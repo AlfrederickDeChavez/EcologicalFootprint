@@ -1,4 +1,4 @@
-# Start With Me: Consume Sustainably!
+# Digging Insights about Ecological Footprint and Sustainable Development through Exploratory Data Analysis
 Global Ecological Footprint Analysis
 
 ## Introduction
