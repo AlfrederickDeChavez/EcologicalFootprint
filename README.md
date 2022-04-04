@@ -7,7 +7,7 @@ Humanity depends on Earth for resources to fulfill their needs including food, a
 The problem of resource depletion is not necessarily limited to the consumption of the resources itself but the unsustainable and irresponsible ways people and industries use them. It starts on the households when people: 
 
 * Leave the lights on when it is not in use which consumes unnecessary energy that cannot be regenerated.
-* Use their computers and smartphones excessively which contributes to much carbon footprint. 
+* Use their computers and smartphones excessively which contributes too much carbon footprint. 
 * Boils too much water when cooking or preparing something to eat or drink. 
 * Leave their faucet or tap running while using them for washing or toothbrushing which wastes a vast amount of water.
 * Prepare too much food and throw away the leftovers.
